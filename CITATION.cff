@@ -3,6 +3,7 @@ message: "Please cite the release and the NORA paper when they inform your work.
 title: "Memory Decision Eval"
 type: software
 version: "0.1.1"
+doi: "10.5281/zenodo.24430281"
 date-released: "2026-11-19"
 repository-code: "https://github.com/Garyouki/memory-decision-eval"
 url: "https://github.com/Garyouki/memory-decision-eval/releases/tag/v0.1.1"

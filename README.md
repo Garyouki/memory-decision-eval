@@ -1,5 +1,7 @@
 # Memory Decision Eval
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24430281.svg)](https://doi.org/10.5281/zenodo.24430281)
+
 A small offline evaluation inspired by the NORA paper *Remember, Verify, or
 Ask?* It scores the decision an agent declares and the tool calls recorded by
 its runner. The eight synthetic cases cover durable memory, one-time use,
