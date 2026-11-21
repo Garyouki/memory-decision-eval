@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "memory-decision-eval"
-version = "0.1.0"
+version = "0.1.1"
 description = "Offline scoring of agent memory decisions and observed tool calls."
 readme = "README.md"
 requires-python = ">=3.10"
