@@ -1,0 +1,21 @@
+{
+  "title": "memory-decision-eval: Offline scoring of agent memory decisions and observed tool calls",
+  "upload_type": "software",
+  "description": "Offline scoring of agent memory decisions and observed tool calls. Source code: https://github.com/Garyouki/memory-decision-eval",
+  "creators": [
+    {
+      "name": "Zheng, Zihao"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [],
+  "related_identifiers": [
+    {
+      "identifier": "10.48550/arXiv.2608.19564",
+      "relation": "isSupplementTo",
+      "scheme": "doi",
+      "resource_type": "publication-preprint"
+    }
+  ]
+}
